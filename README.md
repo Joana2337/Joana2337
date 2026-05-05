@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Reader (still brainstorming new features).<br><br>💬 about : name's Jo, current cs graduate from hunter college working part-time as a stem instructor. Graduate school? - next year. Taking a break from academic studies.<br><br>🌱 currently learning: 3D printing, Robotics and Arduno. <br><br>⚡️ fun fact : reads a lot. 
+🔭 I'm currently working on Reader (still brainstorming new features).<br><br>💬 about : name's Jo, current cs graduate from hunter college working part-time as a stem instructor (substitute teacher). Graduate school? - next year. Taking a break from academic studies.<br><br>🌱 currently learning: 3D printing, Robotics and Arduno. <br><br>⚡️ fun fact : reads a lot. 
 
 
 ## 🌐 Socials:
